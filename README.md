@@ -1,1 +1,1 @@
-# Pose-Classification-and-Detection
+# Human Pose-Classification-and-Detection
